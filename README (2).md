@@ -21,7 +21,7 @@ A fun terminal-based number guessing game built with Python.
 3. The game tells you if your guess is too high or too low
 4. Win by guessing the correct number before running out of chances!
 
-## 📊 Difficulty Levels
+## 📊 Difficulty Levels  
 
 | Level  | Range  | Attempts |
 |--------|--------|----------|
