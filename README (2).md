@@ -8,7 +8,7 @@ A fun terminal-based number guessing game built with Python.
 - Random number generation using Python's `random` module
 - Win / Lose logic with attempt tracking
 - Input validation and range checking
-- Play again option
+- Play again option 
 
 
 
