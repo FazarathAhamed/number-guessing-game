@@ -10,11 +10,7 @@ A fun terminal-based number guessing game built with Python.
 - Input validation and range checking
 - Play again option
 
-## 🚀 How to Run
 
-```bash
-python number_guessing_game.py
-```
 
 > Requires Python 3.x — no extra libraries needed!
 
