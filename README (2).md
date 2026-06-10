@@ -36,4 +36,4 @@ A fun terminal-based number guessing game built with Python.
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT License — see [LICENSE](LICENSE) for details.   
